@@ -7,5 +7,6 @@
 [" me ", " him or her "],
 [" my ", " his or her "],
 [" myself ", " him or herself "],
-[" mine ", " his or hers "]
+[" mine ", " his or hers "],
+["fooz", "barz"]
 ]
